@@ -1,0 +1,11 @@
+B.1.1.7 ;Alpha ;GR/501Y.V1;20I (V1) ;Ujedinjeno Kraljevstvo;Evropa;9;2020;18.12.2020
+B.1.351 ;Beta ;GH/501Y.V2 ;20H (V2);NULL;Afrika;5;2020;18.12.2020
+P.1 ;Gamma ;GR/501Y.V3 ;20J (V3);Brazil;Južna Amerika;11;2020;11.1.2021
+B.1.617.2  ;Delta ;G/478K.V1 ;21A;Indija;Azija;10;2020;4.4.2021
+B.1.427;Epsilon  ;GH/452R.V1 ;21C  ;SAD;Severna Amerika;3;2020;5.3.2021
+P.2 ;Zeta ;GR/484K.V2;20B/S.484K ;Brazil;Južna Amerika;4;2020;17.5.2021
+B.1.525 ;Eta ;G/484K.V3 ;21D;Ujedinjeno Kraljevstvo/Nigerija;Evropa/Afrika;12;2020;17.5.2021
+P.3 ;Theta ;GR/1092K.V1 ;21E ;Filipini;Azija;1;2021;24.3.2021
+B.1.526  ;Iota ;GH/253G.V1;21F ;SAD;Severna Amerika;11;2020;24.3.2021
+B.1.617.1 ;Kappa ; G/452R.V3 ;21B  ;Indija;Azija;10;2020;4.4.2021
+C.37;Lambda;GR/452Q.V1;20D;Peru;Južna Amerika;8;2020;14.6.2021
